@@ -1,0 +1,407 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+    font-family: 'Poppins', ubuntu;
+}
+.nav-wrapper{
+    background-color: white;
+}
+.brand-logo {
+    color: blue !important;
+    font-weight: bold;
+    left: 6%;
+    text-transform: capitalize;
+    font-size: 13px !important;
+}
+.right {
+    /* float: right !important; */
+    margin-left: 784px !important;
+}
+h6{
+    color: blue;
+    font-family: 'Poppins',  sans-serif;
+    font-size: 13px;
+    text-transform: capitalize;
+
+}
+nav ul li {
+    -webkit-transition: background-color .3s;
+    transition: background-color .3s;
+    float: left;
+    padding: 0;
+    /* padding-bottom: 10px !important; */
+    padding-top: 10px;
+}
+.btn {
+    background-color: blue;
+    border-radius: 50px;
+    margin-top: -22px !important;
+    font-family: 'Poppins',  sans-serif;
+    font-size: 13px;
+    text-transform: capitalize;
+}
+
+/* --------------------------end header-------------------------------- */
+
+
+/* ------------------------------MAin--------------------------------- */
+h3{
+    color: blue;
+    font-size: 38px;
+    line-height: 138%;
+    margin: 3.946667rem 0 0.168rem 0;
+    font-weight: bold;
+    text-transform: capitalize
+}
+.images-1{
+    background-image: url("images/undraw_interview_rmcf (1).svg");
+    background-size: cover;
+    height:360px;
+}
+.space-row{
+    padding-top: 120px;
+}
+h5{
+   color: blue;
+   line-height: 108%;
+   margin: 3.093333rem 0 0.656rem 0;
+   font-size: 18px;
+   text-transform: capitalize;
+   font-weight: bold;
+}
+.search-bouton{
+    margin: 3.093333rem 0 0.656rem 0 !important;
+    border: solid  #959494  1px !important;
+    border-radius: 50px !important;
+    width: 65% !important;
+    border-bottom: solid blue 1px !important;
+    border-left:solid blue 1px !important;
+    border-right: solid blue 1px !important;
+    font-size: 13px !important;
+    right: 20px !important;
+
+
+}
+.waves-effect-1 {
+    top: 9px !important;
+    right: 84px !important;
+    height: 49px !important;
+    width: 83px !important;
+}
+.size-img{
+    width: 25px;
+    top: 11px;
+    border: none;
+    background-image: url("images/search.svg")
+}
+.presentation{
+    border-radius: 10px;
+    border:solid rgb(189, 185, 185) 1px;
+    position: relative;
+    top: -198px;
+    background-color: white;
+}
+.section-bleu{
+    height: 250px !important;
+    background-color: blue;
+    margin: 10% 0 0 0 ;
+}
+.img-social{
+    width: 74.333333%;
+    border: none;
+    text-align: center !important;
+    padding-left: 45px;
+    padding-top: 20px;
+}
+.image-google{
+    padding: 51px !important;
+    width: 314px !important;
+    height: 246px !important;
+    background-color: white;
+    border-radius: 10px;
+}
+.presentation-card {
+    top: 10px;
+    padding: 0px !important;
+    margin: 0px;
+    margin-top: -167px;
+}
+.card{
+    width: 50px !important;
+    border-radius: 10px !important;
+    width: 94% !important;
+    border-radius: 9px !important;
+}
+.card-image{
+    border-radius: 15px !important;
+}
+.card-title {
+    text-transform: capitalize;
+    color: #504f4f;
+    font-size: 12px !important;
+    float: left;
+}
+.title-professional{
+    color:#1d1c1c;
+    text-transform: capitalize;  
+}
+.img-social-card {
+    width:70px !important;
+    margin-left: 6px;
+    margin-top: 5px;
+}
+p{
+    font-size: 13px;
+    color: #504f4f;
+    margin-top: 20px !important;
+}
+.button-card {
+    width: 154px !important;
+    background-color: blue;
+    top: -34px;
+    left: 84px;
+    border-radius: 53px 0;
+}
+.button-take{
+    margin-left: 57px !important;
+    margin-bottom: -88px;
+    text-transform: capitalize;
+    border:solid #ded4d4 1px;
+    background-color: white;
+    color: blue;
+    font-size: 11px !important;
+
+}
+.traie{
+    border: solid #cabbbb 1px;
+    margin-top: 124px;
+}
+.section-image{
+    background-image: url(images/undraw_search_2dfv.svg);
+    background-size: cover;
+    height: 248px;
+    margin-top: 13%;
+}
+.section-text{
+    margin-top: 13%;
+    padding-left: 119px !important;
+}
+.section-image1{
+    background-image: url(images/undraw_authentication_fsn5.svg);
+    background-size: cover;
+    height: 258px;
+    margin-top: 13%;
+    padding-left: 119px !important;
+
+}
+.section-text1{
+    margin-top: 13%;
+
+}
+.section-image2{
+    background-image: url(images/undraw_visual_data_b1wx.svg);
+    background-size: cover;
+    height: 258px;
+    margin-top: 13%;
+}
+.section-bleu-2{
+    background-color: blue;
+    margin-top: 237px !important;
+    height: 328px !important;
+}
+h1{
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    margin-top: 74px;
+
+}
+.text-accout{
+    color: white;
+    font-size: 13px;
+    text-align: center
+}
+.button-account{
+    background-color: white;
+    border-radius: 20px;
+    color: blue;
+    margin-left: 511px;
+    font-size: 10px;
+    margin-top: 61px;
+    width: 23%;
+}
+h4{
+    text-align: center;
+    color: #363636;
+    font-size: 12px;
+    margin-top: 80px;    
+} 
+.footer-tex{
+    text-align: center;
+    color: #706e6e;
+    font-size: 11px;
+    margin-top:30px;    
+} 
+
+/* ----------------------partie responsive pour mobile------------------ */
+
+@media screen and (max-width:600px){
+
+    .space-row{
+        padding-top:30px;
+    }
+    h3{
+       
+        font-size:23px;
+        line-height: 120%;
+        margin: 2.946667rem 0 0.168rem 0;
+        
+        
+    }
+    h5{
+        font-size: 15px;
+    }
+    .images-1{
+        height:290px;
+        margin-top:60px;
+    }
+    .presentation{
+        width: 100%;
+    }
+    .img-social{
+        width: 70.333333%;
+        padding-left: 10px;
+        padding: 10px !important;
+        /* border: solid rgb(172, 167, 167) 1px; */
+    }
+    .image-google{
+        padding: 8px !important;
+        width: 140px !important;
+        height: 70px !important;
+        margin-top: 20px;
+    }
+    .card{
+       margin-top: 20px;
+    }
+    .button-card {
+        top: 0px;
+        left: 70px;
+    }
+    .button-take{
+        left: 30px;
+    }
+    .section-image{
+        height: 200px;
+        margin-top: 13%;
+    }
+    .section-text{
+        margin-top: 13%;
+        padding-left: -10px !important;
+    }
+    h1{
+        font-size: 15px;
+    }
+    .text-accout{
+        font-size: 7px;
+    }
+    .button-account{
+        margin-left: 100px;
+        font-size: 10px;
+        margin-top:50px;
+        width: 50%;
+    }
+}
+
+/*----------------------- responsive tablet------------------------------ */
+@media screen and (max-width:768px) and (min-width:601px){
+
+    h3{
+       
+        font-size:18px;
+        line-height: 120%;
+        margin: 2.946667rem 0 0.168rem 0;  
+    }
+    h5{
+        font-size: 10px;
+    }
+    .images-1{
+        height:260px;
+        margin-top:0px;
+    }
+    .img-social{
+        width: 60.333333%;
+        margin-left: 45px;
+        padding: 10px !important;
+        /* border: solid rgb(172, 167, 167) 1px; */
+    }
+    .image-google{
+        padding: 8px !important;
+        width: 215px !important;
+        height: 70px !important;
+        margin-top: 30px;
+    }
+    .button-card{
+        left: 95px;
+    }
+    .section-image{
+        height: 300px;
+        margin-top: 13%;
+    }
+    .button-account{
+        margin-left: 250px;
+        font-size: 10px;
+        margin-top:50px;
+        width: 30%;
+    }
+    h5{
+        font-size: 15px;
+    }
+    
+}
+
+
+/* -------------------------responsive petit laptop------------------------------ */
+
+@media screen and (max-width:1024px) and (min-width:769px){
+    li{
+        margin-right:-25px;
+        right: 10px;
+    }
+    .img-social{
+        width: 60.333333%;
+        margin-left: 45px;
+        padding: 10px !important;
+        /* border: solid rgb(172, 167, 167) 1px; */
+    }
+    .image-google{
+        padding: 8px !important;
+        width: 215px !important;
+        height: 70px !important;
+        margin-top: 30px;
+    }
+    .button-account{
+        margin-left: 310px;
+        font-size: 10px;
+        margin-top:50px;
+        width: 30%;
+    }
+    .card-title{
+        font-size: 10px;
+    }
+    .img-social-card{
+        width:50px !important;
+        margin-left: 3px;
+        margin-top: 10px;
+    }
+    .button-card {
+        font-size:8px;
+        width: 110px !important;
+        top: -24px;
+        left: 59px;
+        border-radius: 53px 0;
+    }
+    .button-take{
+        margin-left: 27px !important;
+    }
+}
